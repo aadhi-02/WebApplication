@@ -1,0 +1,11 @@
+﻿{
+  "Name": "SauceLabs",
+  "Type": "App",
+  "Id": "FJ8igBOuskKp1gwXoaxwoA",
+  "Reference": "7_xemXTGJkiZYGlL27P0dw/FJ8igBOuskKp1gwXoaxwoA",
+  "Created": "2024-02-08T10:25:40.0488654Z",
+  "Updated": "2024-02-08T10:25:40.0488654Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
